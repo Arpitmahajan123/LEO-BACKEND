@@ -1,0 +1,16 @@
+{
+  "name": "hackthon",
+  "version": "1.0.0",
+  "description": "This Is FrontEnd And Backend Of LEO App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Python",
+    "Java"
+  ],
+  "author": "Arpit Mahajan",
+  "license": "ISC"
+}
